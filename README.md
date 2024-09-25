@@ -2,6 +2,10 @@
 
 Afro Flmes é um projeto React que consome uma API própria para buscar filmes com representatividade negra. O objetivo do projeto é proporcionar uma plataforma que destaca filmes que trazem diversidade e protagonismo negro na indústria cinematográfica.
 
+![Veja o layout do site](./Afro%20Filmes/src/assets/images/site.png)
+
+![Veja a estrutura do site](./Afro%20Filmes/src/assets/images/codigo.png)
+
 ## Funcionalidades
 
 - **Busca de filmes**: Pesquise por filmes que apresentam diversidade e representatividade afro.
